@@ -4,6 +4,8 @@
 
 **[Abrir a demonstração ao vivo](https://gustavocampelo.github.io/christmas-tree/)**
 
+O site está publicado no GitHub Pages pela branch `gh-pages`. O código-fonte fica na branch `main`. O GIF acima demonstra a montagem e a rotação em 160 quadros, durante 16 segundos.
+
 Árvore de Natal 3D procedural em uma SPA React, Vite, TypeScript e Tailwind CSS. Toda a cena é desenhada com caracteres ASCII imprimíveis em um único Canvas 2D. Não usa modelos, imagens, vídeo de fundo, fontes externas, backend ou banco de dados.
 
 ## Executar
